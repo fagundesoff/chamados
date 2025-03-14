@@ -1,0 +1,12 @@
+D:\source\Avaliação de Desenvolvimento - Lógica\Questão 1\CalculoDesconto\bin\Debug\CalculoDesconto.exe.config
+D:\source\Avaliação de Desenvolvimento - Lógica\Questão 1\CalculoDesconto\bin\Debug\CalculoDesconto.exe
+D:\source\Avaliação de Desenvolvimento - Lógica\Questão 1\CalculoDesconto\bin\Debug\CalculoDesconto.pdb
+D:\source\Avaliação de Desenvolvimento - Lógica\Questão 1\CalculoDesconto\bin\Debug\CalculoDesconto.xml
+D:\source\Avaliação de Desenvolvimento - Lógica\Questão 1\CalculoDesconto\obj\Debug\CalculoDesconto.vbproj.AssemblyReference.cache
+D:\source\Avaliação de Desenvolvimento - Lógica\Questão 1\CalculoDesconto\obj\Debug\CalculoDesconto.Form1.resources
+D:\source\Avaliação de Desenvolvimento - Lógica\Questão 1\CalculoDesconto\obj\Debug\CalculoDesconto.Resources.resources
+D:\source\Avaliação de Desenvolvimento - Lógica\Questão 1\CalculoDesconto\obj\Debug\CalculoDesconto.vbproj.GenerateResource.cache
+D:\source\Avaliação de Desenvolvimento - Lógica\Questão 1\CalculoDesconto\obj\Debug\CalculoDesconto.vbproj.CoreCompileInputs.cache
+D:\source\Avaliação de Desenvolvimento - Lógica\Questão 1\CalculoDesconto\obj\Debug\CalculoDesconto.exe
+D:\source\Avaliação de Desenvolvimento - Lógica\Questão 1\CalculoDesconto\obj\Debug\CalculoDesconto.xml
+D:\source\Avaliação de Desenvolvimento - Lógica\Questão 1\CalculoDesconto\obj\Debug\CalculoDesconto.pdb

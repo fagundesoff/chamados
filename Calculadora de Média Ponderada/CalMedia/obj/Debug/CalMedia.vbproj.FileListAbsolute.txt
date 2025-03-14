@@ -1,0 +1,12 @@
+D:\source\Avaliação de Desenvolvimento - Lógica\Calculadora de Média Ponderada\CalMedia\bin\Debug\CalMedia.exe.config
+D:\source\Avaliação de Desenvolvimento - Lógica\Calculadora de Média Ponderada\CalMedia\bin\Debug\CalMedia.exe
+D:\source\Avaliação de Desenvolvimento - Lógica\Calculadora de Média Ponderada\CalMedia\bin\Debug\CalMedia.pdb
+D:\source\Avaliação de Desenvolvimento - Lógica\Calculadora de Média Ponderada\CalMedia\bin\Debug\CalMedia.xml
+D:\source\Avaliação de Desenvolvimento - Lógica\Calculadora de Média Ponderada\CalMedia\obj\Debug\CalMedia.vbproj.AssemblyReference.cache
+D:\source\Avaliação de Desenvolvimento - Lógica\Calculadora de Média Ponderada\CalMedia\obj\Debug\CalMedia.Form1.resources
+D:\source\Avaliação de Desenvolvimento - Lógica\Calculadora de Média Ponderada\CalMedia\obj\Debug\CalMedia.Resources.resources
+D:\source\Avaliação de Desenvolvimento - Lógica\Calculadora de Média Ponderada\CalMedia\obj\Debug\CalMedia.vbproj.GenerateResource.cache
+D:\source\Avaliação de Desenvolvimento - Lógica\Calculadora de Média Ponderada\CalMedia\obj\Debug\CalMedia.vbproj.CoreCompileInputs.cache
+D:\source\Avaliação de Desenvolvimento - Lógica\Calculadora de Média Ponderada\CalMedia\obj\Debug\CalMedia.exe
+D:\source\Avaliação de Desenvolvimento - Lógica\Calculadora de Média Ponderada\CalMedia\obj\Debug\CalMedia.xml
+D:\source\Avaliação de Desenvolvimento - Lógica\Calculadora de Média Ponderada\CalMedia\obj\Debug\CalMedia.pdb

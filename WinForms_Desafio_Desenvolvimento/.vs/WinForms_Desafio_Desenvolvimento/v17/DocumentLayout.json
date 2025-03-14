@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\Avalia\u00E7\u00E3o de Desenvolvimento - L\u00F3gica\\WinForms_Desafio_Desenvolvimento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1577BCF2-F0B8-40DD-AA10-D54A526301FC}|WinForms_Desafio_Desenvolvimento\\WinForms_Desafio_Desenvolvimento.vbproj|d:\\source\\avalia\u00E7\u00E3o de desenvolvimento - l\u00F3gica\\winforms_desafio_desenvolvimento\\winforms_desafio_desenvolvimento\\relatorios\\rptchamados.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{1577BCF2-F0B8-40DD-AA10-D54A526301FC}|WinForms_Desafio_Desenvolvimento\\WinForms_Desafio_Desenvolvimento.vbproj|solutionrelative:winforms_desafio_desenvolvimento\\relatorios\\rptchamados.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1577BCF2-F0B8-40DD-AA10-D54A526301FC}|WinForms_Desafio_Desenvolvimento\\WinForms_Desafio_Desenvolvimento.vbproj|d:\\source\\avalia\u00E7\u00E3o de desenvolvimento - l\u00F3gica\\winforms_desafio_desenvolvimento\\winforms_desafio_desenvolvimento\\relatorios\\rptdepartamentos.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{1577BCF2-F0B8-40DD-AA10-D54A526301FC}|WinForms_Desafio_Desenvolvimento\\WinForms_Desafio_Desenvolvimento.vbproj|solutionrelative:winforms_desafio_desenvolvimento\\relatorios\\rptdepartamentos.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 369,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rptChamados.rdlc [Criar]",
+              "DocumentMoniker": "D:\\source\\Avalia\u00E7\u00E3o de Desenvolvimento - L\u00F3gica\\WinForms_Desafio_Desenvolvimento\\WinForms_Desafio_Desenvolvimento\\Relatorios\\rptChamados.rdlc",
+              "RelativeDocumentMoniker": "WinForms_Desafio_Desenvolvimento\\Relatorios\\rptChamados.rdlc",
+              "ToolTip": "D:\\source\\Avalia\u00E7\u00E3o de Desenvolvimento - L\u00F3gica\\WinForms_Desafio_Desenvolvimento\\WinForms_Desafio_Desenvolvimento\\Relatorios\\rptChamados.rdlc [Criar]",
+              "RelativeToolTip": "WinForms_Desafio_Desenvolvimento\\Relatorios\\rptChamados.rdlc [Criar]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-03-14T19:03:58.346Z",
+              "EditorCaption": " [Criar]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rptDepartamentos.rdlc [Criar]",
+              "DocumentMoniker": "D:\\source\\Avalia\u00E7\u00E3o de Desenvolvimento - L\u00F3gica\\WinForms_Desafio_Desenvolvimento\\WinForms_Desafio_Desenvolvimento\\Relatorios\\rptDepartamentos.rdlc",
+              "RelativeDocumentMoniker": "WinForms_Desafio_Desenvolvimento\\Relatorios\\rptDepartamentos.rdlc",
+              "ToolTip": "D:\\source\\Avalia\u00E7\u00E3o de Desenvolvimento - L\u00F3gica\\WinForms_Desafio_Desenvolvimento\\WinForms_Desafio_Desenvolvimento\\Relatorios\\rptDepartamentos.rdlc [Criar]",
+              "RelativeToolTip": "WinForms_Desafio_Desenvolvimento\\Relatorios\\rptDepartamentos.rdlc [Criar]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-03-14T19:03:24.596Z",
+              "EditorCaption": " [Criar]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

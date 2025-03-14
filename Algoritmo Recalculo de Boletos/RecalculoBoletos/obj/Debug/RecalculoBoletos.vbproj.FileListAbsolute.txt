@@ -1,0 +1,12 @@
+D:\source\Avaliação de Desenvolvimento - Lógica\Algoritmo Recalculo de Boletos\RecalculoBoletos\bin\Debug\RecalculoBoletos.exe.config
+D:\source\Avaliação de Desenvolvimento - Lógica\Algoritmo Recalculo de Boletos\RecalculoBoletos\bin\Debug\RecalculoBoletos.exe
+D:\source\Avaliação de Desenvolvimento - Lógica\Algoritmo Recalculo de Boletos\RecalculoBoletos\bin\Debug\RecalculoBoletos.pdb
+D:\source\Avaliação de Desenvolvimento - Lógica\Algoritmo Recalculo de Boletos\RecalculoBoletos\bin\Debug\RecalculoBoletos.xml
+D:\source\Avaliação de Desenvolvimento - Lógica\Algoritmo Recalculo de Boletos\RecalculoBoletos\obj\Debug\RecalculoBoletos.vbproj.AssemblyReference.cache
+D:\source\Avaliação de Desenvolvimento - Lógica\Algoritmo Recalculo de Boletos\RecalculoBoletos\obj\Debug\RecalculoBoletos.Form1.resources
+D:\source\Avaliação de Desenvolvimento - Lógica\Algoritmo Recalculo de Boletos\RecalculoBoletos\obj\Debug\RecalculoBoletos.Resources.resources
+D:\source\Avaliação de Desenvolvimento - Lógica\Algoritmo Recalculo de Boletos\RecalculoBoletos\obj\Debug\RecalculoBoletos.vbproj.GenerateResource.cache
+D:\source\Avaliação de Desenvolvimento - Lógica\Algoritmo Recalculo de Boletos\RecalculoBoletos\obj\Debug\RecalculoBoletos.vbproj.CoreCompileInputs.cache
+D:\source\Avaliação de Desenvolvimento - Lógica\Algoritmo Recalculo de Boletos\RecalculoBoletos\obj\Debug\RecalculoBoletos.exe
+D:\source\Avaliação de Desenvolvimento - Lógica\Algoritmo Recalculo de Boletos\RecalculoBoletos\obj\Debug\RecalculoBoletos.xml
+D:\source\Avaliação de Desenvolvimento - Lógica\Algoritmo Recalculo de Boletos\RecalculoBoletos\obj\Debug\RecalculoBoletos.pdb

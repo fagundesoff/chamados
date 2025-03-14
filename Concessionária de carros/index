@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Concessionária - Descontos</title>
+</head>
+
+<body>
+    <div class="container">
+        <h2>Calculadora de Desconto</h2>
+        <label for="preco">Preço do Carro:</label>
+        <input type="text" id="preco" placeholder="Digite o preço" required>
+        <label for="ano">Ano do Carro:</label>
+        <input type="text" id="ano" placeholder="Digite o ano" required>
+
+        <button onclick="calcularDesconto()">Calcular Desconto</button>
+        <p id="resultado"></p>
+        <button onclick="mostrarTotais()">Mostrar Totais</button>
+        <p id="totais"></p>
+    </div>
+
+    <script>
+        let totalCarros2000 = 0;
+        let totalGeral = 0;
+
+        function calcularDesconto() {
+            let preco = parseFloat(document.getElementById('preco').value);
+            let ano = parseInt(document.getElementById('ano').value);
+            let desconto = 0;
+
+            if (ano <= 2000) {
+                desconto = preco * 0.12;
+                totalCarros2000++;
+            } else {
+                desconto = preco * 0.07;
+            }
+
+            totalGeral++;
+            let precoFinal = preco - desconto;
+            document.getElementById('resultado').innerHTML = `Desconto: R$ ${desconto.toFixed(2)}<br>Valor a pagar: R$ ${precoFinal.toFixed(2)}`;
+        }
+
+        function mostrarTotais() {
+            document.getElementById('totais').innerHTML = `Total de carros até 2000: ${totalCarros2000}<br>Total de carros no geral: ${totalGeral}`;
+        }
+    </script>
+</body>
+
+</html>

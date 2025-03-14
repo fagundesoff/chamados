@@ -1,0 +1,12 @@
+D:\source\Avaliação de Desenvolvimento - Lógica\Classificacao Triangulo\ClassificacaoTriangulo\bin\Debug\ClassificacaoTriangulo.exe.config
+D:\source\Avaliação de Desenvolvimento - Lógica\Classificacao Triangulo\ClassificacaoTriangulo\bin\Debug\ClassificacaoTriangulo.exe
+D:\source\Avaliação de Desenvolvimento - Lógica\Classificacao Triangulo\ClassificacaoTriangulo\bin\Debug\ClassificacaoTriangulo.pdb
+D:\source\Avaliação de Desenvolvimento - Lógica\Classificacao Triangulo\ClassificacaoTriangulo\bin\Debug\ClassificacaoTriangulo.xml
+D:\source\Avaliação de Desenvolvimento - Lógica\Classificacao Triangulo\ClassificacaoTriangulo\obj\Debug\ClassificacaoTriangulo.vbproj.AssemblyReference.cache
+D:\source\Avaliação de Desenvolvimento - Lógica\Classificacao Triangulo\ClassificacaoTriangulo\obj\Debug\ClassificacaoTriangulo.Form1.resources
+D:\source\Avaliação de Desenvolvimento - Lógica\Classificacao Triangulo\ClassificacaoTriangulo\obj\Debug\ClassificacaoTriangulo.Resources.resources
+D:\source\Avaliação de Desenvolvimento - Lógica\Classificacao Triangulo\ClassificacaoTriangulo\obj\Debug\ClassificacaoTriangulo.vbproj.GenerateResource.cache
+D:\source\Avaliação de Desenvolvimento - Lógica\Classificacao Triangulo\ClassificacaoTriangulo\obj\Debug\ClassificacaoTriangulo.vbproj.CoreCompileInputs.cache
+D:\source\Avaliação de Desenvolvimento - Lógica\Classificacao Triangulo\ClassificacaoTriangulo\obj\Debug\ClassificacaoTriangulo.exe
+D:\source\Avaliação de Desenvolvimento - Lógica\Classificacao Triangulo\ClassificacaoTriangulo\obj\Debug\ClassificacaoTriangulo.xml
+D:\source\Avaliação de Desenvolvimento - Lógica\Classificacao Triangulo\ClassificacaoTriangulo\obj\Debug\ClassificacaoTriangulo.pdb
