@@ -7,7 +7,7 @@ Este projeto foi desenvolvido como parte do teste técnico para a vaga de **Dese
 - **Linguagem:** VB.NET
 - **Framework:** .NET Framework
 - **Interface:** Windows Forms
-- **Banco de Dados:** SQL Server (ou outro, se aplicável)
+- **Banco de Dados:** SQL
 
 ## 🚀 Funcionalidades Implementadas
 - Cadastro, edição e exclusão de chamados
